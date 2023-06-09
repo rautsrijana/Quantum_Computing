@@ -2,7 +2,7 @@
 
 This is the project, where we apply our knowledge and skills in quantum computing to explore Shor's algorithm.
 
-The project involve a team of 7 members, with the aim of promoting and encouraging teamwork.
+The project involve a team of 7 members, with the aim of promoting and encouraging teamwork. The code is in master branch. 
 
 # Shor's algorithm
 
